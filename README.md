@@ -2,6 +2,9 @@
 A python program which lets anybody perform audiometry on any laptop or desktop.
 Logic of the code is self explanatory. Anyway, comments have been provided to make it more readable.
 
+Disclaimer: This tool is not a "medical grade" product and should not be considered as an alternative for 
+an expert opinion. This tool is still under-development.
+
 
 Author: Suri Bhasker Sri Harsha
         Research Scholar - MS Computer science department
